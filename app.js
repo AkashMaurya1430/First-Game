@@ -1,5 +1,4 @@
 /*
-By Akash Maurya
 
 GAME RULES:
 
@@ -11,6 +10,7 @@ GAME RULES:
 
 */
 
+//  By Akash Maurya
 
 var currentscore = 0, winningscore = 30, currentplayer, counter;
 Boolean(currentplayer);
